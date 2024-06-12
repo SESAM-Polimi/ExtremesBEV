@@ -1,6 +1,10 @@
 {
   "LR": {
     "Exiobase": "C:\\Users\\loren\\Polimi\\Politecnico di Milano\\DENG-SESAM - Documenti\\c-Research\\a-Datasets\\Exiobase Hybrid 3.3.18 with VA",
+    "EMBER": {
+      "data": "C:\\Users\\loren\\Polimi\\Politecnico di Milano\\DENG-SESAM - Documenti\\c-Research\\a-Datasets\\EMBER\\yearly_full_release_long_format.csv",
+      "countries map": "C:\\Users\\loren\\Polimi\\Politecnico di Milano\\DENG-SESAM - Documenti\\c-Research\\a-Datasets\\EMBER\\Countries map.xlsx"
+    },
     "FIONA Master": "C:\\Users\\loren\\Polimi\\Politecnico di Milano\\DENG-SESAM - Documenti\\c-Research\\c-Publications on-going\\2024_Al Khourdajie_ExtremesBEV\\Model\\Data\\Master.xlsx"
   },
   "DG": {
